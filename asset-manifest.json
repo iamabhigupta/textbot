@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/textbot/static/js/main.ec6e13da.js",
+    "main.js": "/textbot/static/js/main.6185fb0c.js",
     "index.html": "/textbot/index.html",
-    "main.ec6e13da.js.map": "/textbot/static/js/main.ec6e13da.js.map"
+    "main.6185fb0c.js.map": "/textbot/static/js/main.6185fb0c.js.map"
   },
   "entrypoints": [
-    "static/js/main.ec6e13da.js"
+    "static/js/main.6185fb0c.js"
   ]
 }
